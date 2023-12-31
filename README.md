@@ -32,6 +32,13 @@ This voice assistant is built using a combination of various Python packages, ma
 -
 -
 
+| Installation command    | Library purpose |
+| --------- | ------- |
+| pip install google    |    Google Searches     |
+| pip install SpeechRecognition        |   Speech Recognition (Speech-To-Text)      |
+| pip install pyttsx3	       |    Offline speech synthesis on Windows (Text-To-Speech)     |
+| pip install googletrans       |   Google Translate      |
+
 ### Project Links :
 -
 -
