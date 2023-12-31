@@ -38,7 +38,7 @@ This voice assistant is built using a combination of various Python packages, ma
 -
 -
 
-## issues :
+## Issues :
 -
 -
 -
@@ -49,7 +49,13 @@ This voice assistant is built using a combination of various Python packages, ma
 -
 -
 
-## More :
+## Future work :
+-
+-
+-
+-
+
+## References :
 -
 -
 -
